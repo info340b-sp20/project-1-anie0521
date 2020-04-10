@@ -2,7 +2,7 @@
   "name": "info340-project",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "info340 project 01 with package.json",
   "scripts": {
     "test": "jest"
   },
